@@ -5,3 +5,4 @@ export const Home = () => {
         <div id="home-page">Home Page</div>
     )
 }
+

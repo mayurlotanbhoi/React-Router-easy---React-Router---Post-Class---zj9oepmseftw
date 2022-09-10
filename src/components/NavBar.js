@@ -11,6 +11,7 @@ export const NavBar = () =>{
     <li><NavLink  className = "home-link" to="/home" >home</NavLink></li>
 </ul>
 
+
     </>
     )
 }

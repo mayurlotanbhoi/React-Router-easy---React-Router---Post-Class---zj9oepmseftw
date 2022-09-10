@@ -5,3 +5,5 @@ export const NotFound = () => {
        <div id="not-found-page">Not found page</div>
     )
 }
+
+
